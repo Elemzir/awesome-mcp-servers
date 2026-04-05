@@ -1120,6 +1120,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [KTA-Oracle](https://github.com/Elemzir/KTA-Oracle) 🌐 - Real-time $KTA payment oracle for Keeta Network. Live rates for 55+ currencies, SWIFT vs Keeta comparison, whale alerts, compliance data. 11.2M TPS, 400ms settlement, 200+ countries.
 - [@asterpay/mcp-server](https://github.com/timolein74/asterpay-mcp-server) [![asterpay-mcp-server MCP server](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server) 📇 ☁️ - EUR settlement for AI agents via x402 protocol. Market data, AI tools, crypto analytics — pay-per-call in USDC on Base. SEPA Instant EUR off-ramp.
 - [@frihet/mcp-server](https://github.com/Frihet-io/frihet-mcp) [![frihet-mcp MCP server](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp) 📇 ☁️ - AI-native business management — invoices, expenses, clients, products, and quotes. 31 tools for Claude, Cursor, Windsurf, and Cline.
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
